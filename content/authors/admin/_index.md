@@ -37,7 +37,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Chengzhi Ye
 user_groups:
 - Researchers
 - Visitors
